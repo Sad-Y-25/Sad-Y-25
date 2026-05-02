@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student+at+ENSA+K%C3%A9nitra;AI+%26+RAG+Chatbot+Developer;Full-Stack+Developer+%7C+React+%7C+Laravel+%7C+Spring+Boot;Building+intelligent+and+scalable+web+applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering;AI+%26+RAG+Chatbot+Developer;Full-Stack+Developer+%7C+React+%7C+Laravel+%7C+Spring+Boot;Building+intelligent+and+scalable+web+applications" />
 </p>
 
 ---
@@ -175,7 +175,6 @@ Specialization: **Advanced Software Engineering**
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sad-Y-25/Sad-Y-25/output/snake.svg" alt="Snake animation" />
 </p>
-
 ---
 
 <p align="center">
