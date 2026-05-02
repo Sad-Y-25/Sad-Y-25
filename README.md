@@ -145,16 +145,7 @@ Specialization: **Advanced Software Engineering**
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sad-Y-25&theme=tokyonight" 
-    alt="Repos per Language" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sad-Y-25&theme=tokyonight" 
-    alt="Most Commit Language" 
-  />
-</p>
+
 ---
 
 ## 🏅 GitHub Trophies
