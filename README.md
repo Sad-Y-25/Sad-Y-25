@@ -10,15 +10,9 @@
 ## 👋 About Me
 
 
-Hi, I'm **Youssef Sadiqui**, a **4th-year Computer Engineering Student** at **ENSA Kénitra**, specializing in **Advanced Software Engineering**, **Artificial Intelligence**, and **Full-Stack Development**.
+I’m a Computer Science Engineer passionate about Artificial Intelligence, RAG systems, NLP, OCR, LLMs, and Machine Learning.
 
-I enjoy building intelligent, useful, and scalable applications — from **RAG chatbots** and **AI models** to **real-time collaborative web platforms**.
-
-- 🎓 Computer Science Engineering
-- 🤖 Interested in **AI, RAG, NLP, OCR, LLMs, and Machine Learning**
-- 💻 Full-Stack experience with **React, Laravel, Spring Boot, Node.js/Express.js , TypeScrript**
-- 🔍 Built end-to-end RAG pipelines using **OCR, FAISS, Top-K retrieval, and RAGAS evaluation**
-- ⚡ Experience with **REST APIs, WebSockets, Docker, Git, and SQL**
+I build intelligent and scalable full-stack applications using React, Laravel, Spring Boot, Node.js/Express.js, TypeScript, REST APIs, WebSockets, Docker, Git, and SQL.
 
 ---
 
