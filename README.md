@@ -175,15 +175,9 @@ Specialization: **Advanced Software Engineering**
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sad-Y-25/Sad-Y-25/output/snake.svg" alt="Snake animation" />
-</p>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sad-Y-25&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
-</p>
-
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Sad-Y-25/Sad-Y-25@output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Sad-Y-25/Sad-Y-25@output/snake.svg">
+    <img alt="github contribution snake animation" src="https://cdn.jsdelivr.net/gh/Sad-Y-25/Sad-Y-25@output/snake.svg">
+  </picture>
 </p>
