@@ -12,7 +12,6 @@
 
 ## 👋 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Hi, I'm **Youssef Sadiqui**, a **4th-year Computer Engineering Student** at **ENSA Kénitra**, specializing in **Advanced Software Engineering**, **Artificial Intelligence**, and **Full-Stack Development**.
 
