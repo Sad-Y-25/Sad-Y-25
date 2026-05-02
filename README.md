@@ -108,19 +108,6 @@ I build intelligent and scalable full-stack applications using React, Laravel, S
 
 ---
 
-## 🎓 Education
-
-### École Nationale des Sciences Appliquées — ENSA Kénitra  
-**State Engineering Degree in Computer Engineering**  
-📅 Sept. 2024 – Present  
-Specialization: **Advanced Software Engineering**
-
-### Université Ibn Tofail — Kénitra  
-**Bachelor’s Degree in Computer Science**  
-📅 2023 – 2024
-
----
-
 
 
 ## 📊 GitHub Analytics
