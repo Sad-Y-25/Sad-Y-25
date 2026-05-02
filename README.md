@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=230&amp;section=header&amp;text=Youssef%20Sadiqui&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Science%20Engineering20%7C%20AI%20%26%20Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=230&amp;section=header&amp;text=Youssef%20Sadiqui&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Engineering%20Student%20%7C%20AI%20and%20Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=18" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Computer+Engineering+Student+at+ENSA+Kenitra;AI+and+RAG+Chatbot+Developer;Full-Stack+Developer+React+Laravel+Spring+Boot;Building+intelligent+and+scalable+web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Computer+Engineering+Student+at+ENSA+Kenitra;AI+and+RAG+Chatbot+Developer;Full-Stack+Developer+with+React+Laravel+Spring+Boot;Building+intelligent+and+scalable+web+applications" alt="Typing SVG" />
 </p>
 ---
 
@@ -132,22 +132,20 @@ Specialization: **Advanced Software Engineering**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sad-Y-25&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sad-Y-25&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sad-Y-25&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sad-Y-25&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad-Y-25&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad-Y-25&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
-
 ---
 
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sad-Y-25&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sad-Y-25&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6" />
 </p>
-
 ---
 
 
