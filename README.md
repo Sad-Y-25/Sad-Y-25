@@ -1,13 +1,10 @@
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Youssef%20Sadiqui&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=230&amp;section=header&amp;text=Youssef%20Sadiqui&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Science%20Engineering20%7C%20AI%20%26%20Full-Stack%20Developer&amp;descAlignY=58&amp;descSize=18" alt="Header" />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering;AI+%26+RAG+Chatbot+Developer;Full-Stack+Developer+%7C+React+%7C+Laravel+%7C+Spring+Boot;Building+intelligent+and+scalable+web+applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Computer+Engineering+Student+at+ENSA+Kenitra;AI+and+RAG+Chatbot+Developer;Full-Stack+Developer+React+Laravel+Spring+Boot;Building+intelligent+and+scalable+web+applications" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 👋 About Me
