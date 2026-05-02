@@ -133,23 +133,26 @@ Specialization: **Advanced Software Engineering**
 
 <p align="center">
   <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=Sad-Y-25&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    alt="Youssef's GitHub Stats" 
-  />
-
-  <img 
-    width="48%" 
     src="https://streak-stats.demolab.com?user=Sad-Y-25&theme=tokyonight&hide_border=true" 
-    alt="Youssef's GitHub Streak" 
+    alt="GitHub Streak" 
   />
 </p>
 
 <p align="center">
   <img 
-    width="50%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad-Y-25&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    alt="Top Languages" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sad-Y-25&theme=tokyonight" 
+    alt="GitHub Profile Summary" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sad-Y-25&theme=tokyonight" 
+    alt="Repos per Language" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sad-Y-25&theme=tokyonight" 
+    alt="Most Commit Language" 
   />
 </p>
 ---
