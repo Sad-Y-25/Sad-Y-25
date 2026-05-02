@@ -1,0 +1,189 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Youssef%20Sadiqui&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student+at+ENSA+K%C3%A9nitra;AI+%26+RAG+Chatbot+Developer;Full-Stack+Developer+%7C+React+%7C+Laravel+%7C+Spring+Boot;Building+intelligent+and+scalable+web+applications" />
+</p>
+
+---
+
+## 👋 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Hi, I'm **Youssef Sadiqui**, a **4th-year Computer Engineering Student** at **ENSA Kénitra**, specializing in **Advanced Software Engineering**, **Artificial Intelligence**, and **Full-Stack Development**.
+
+I enjoy building intelligent, useful, and scalable applications — from **RAG chatbots** and **AI models** to **real-time collaborative web platforms**.
+
+- 🎓 Computer Science Engineering
+- 🤖 Interested in **AI, RAG, NLP, OCR, LLMs, and Machine Learning**
+- 💻 Full-Stack experience with **React, Laravel, Spring Boot, Node.js/Express.js , TypeScrript**
+- 🔍 Built end-to-end RAG pipelines using **OCR, FAISS, Top-K retrieval, and RAGAS evaluation**
+- ⚡ Experience with **REST APIs, WebSockets, Docker, Git, and SQL**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,php,c,cpp,mysql" />
+</p>
+
+### 🚀 Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,laravel,spring,nodejs,express,tensorflow" />
+</p>
+
+### 🧠 AI & Data Science
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-222222?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR-FF6F00?style=for-the-badge&logo=googlelens&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-6A5ACD?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
+
+
+
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Intelligent RAG Chatbot</h3>
+      <p align="center">
+        End-to-end RAG system using OCR, FAISS indexing, Top-K retrieval optimization, LLM fine-tuning, and RAGAS evaluation.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-RAG-blue?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/FAISS-Vector%20Search-black?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📝 SyncForm</h3>
+      <p align="center">
+        Real-time collaborative form generator built with React, Laravel, REST APIs, and WebSockets.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-Realtime-black?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚗 Used Car Price Predictor</h3>
+      <p align="center">
+        Full-stack application for predicting used car prices in Morocco using Spring Boot, Java web scraping, and an AI regression model.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-Web%20Scraping-007396?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-Regression-orange?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🖼️ Multi-Class Image Classification</h3>
+      <p align="center">
+        CNN-based image classification model built with TensorFlow for automated multi-class recognition.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-Image%20Classification-purple?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+### École Nationale des Sciences Appliquées — ENSA Kénitra  
+**State Engineering Degree in Computer Engineering**  
+📅 Sept. 2024 – Present  
+Specialization: **Advanced Software Engineering**
+
+### Université Ibn Tofail — Kénitra  
+**Bachelor’s Degree in Computer Science**  
+📅 2023 – 2024
+
+---
+
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sad-Y-25&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sad-Y-25&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad-Y-25&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sad-Y-25&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:contactyoussefstudy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contactyoussefstudy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sad-Y-25">
+    <img src="https://img.shields.io/badge/GitHub-Sad--Y--25-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/youssef-sadiqui-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Sadiqui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sad-Y-25/Sad-Y-25/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sad-Y-25&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" />
+</p>
