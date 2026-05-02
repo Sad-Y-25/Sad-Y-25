@@ -132,12 +132,25 @@ Specialization: **Advanced Software Engineering**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sad-Y-25&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sad-Y-25&amp;theme=tokyonight&amp;hide_border=true" />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=Sad-Y-25&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    alt="Youssef's GitHub Stats" 
+  />
+
+  <img 
+    width="48%" 
+    src="https://streak-stats.demolab.com?user=Sad-Y-25&theme=tokyonight&hide_border=true" 
+    alt="Youssef's GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad-Y-25&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+  <img 
+    width="50%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad-Y-25&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    alt="Top Languages" 
+  />
 </p>
 ---
 
